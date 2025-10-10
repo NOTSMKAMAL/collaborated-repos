@@ -9,25 +9,24 @@ Curated links to the student-organization websites and design work I was part of
 
 ## Web Projects
 
-### 1) VSA Website — UC Riverside
-- **Repo:** https://github.com/acm-ucr/vsa-website  
-- **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
-- **About:** Vietnamese Student Association site for culture, community, and events.
-- **Role:** Web developer.  
-- **Notes:** Repo README covers Node.js, envs, commands, lint/format, dev, and build.
-
-### 2) Quant Club Website — UC Riverside
+### 1) Quant Club Website — ACM@UCR
 - **Repo:** https://github.com/acm-ucr/quant-website  
 - **Stack:**  Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma    
 - **About:** Club site for events, projects, and resources.  
 - **Role:** Frontend Developer.
 
-### 3) CSE ULA Portal — UC Riverside
+### 2) CSE ULA Portal — ACM@UCR
 - **Repo:** https://github.com/acm-ucr/cse-ula  
 - **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
 - **About:** Site for CS Undergraduate Learning Assistant information and workflows.  
-- **Role:** Developer.
-
+- **Role:** Backend Developer.
+- 
+### 3) VSA Website — ACM@UCR
+- **Repo:** https://github.com/acm-ucr/vsa-website  
+- **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
+- **About:** Vietnamese Student Association site for culture, community, and events.
+- **Role:** Fullstack developer.  
+- **Notes:** Repo README covers Node.js, envs, commands, lint/format, dev, and build.
 ---
 ## Designs
 
