@@ -1,5 +1,4 @@
-# SM — Project Links for Recruiters
-
+# SM — Project Links 
 Curated links to the student-organization websites and design work I was part of. Each linked repo includes setup, stack, and docs. Last updated: 2025-10-09.
 
 ## Quick Index
