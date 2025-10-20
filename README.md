@@ -32,7 +32,8 @@ Curated links to the student-organization websites and design work I was part of
 
 ### Lo-Fi/Hi-Fi App Wireframe Project
 - **Figma:** https://www.figma.com/design/GORI3lXkW2tMYubuweYKgM/Lo-Fi-Wireframe?node-id=2-4&p=f
-- **Project overview (Canva):** https://www.canva.com/design/DAGolt5q8zo/C1vYkcMhGZCAYe8BVK0hRQ/edit
+- **Project overview (Canva):[Group 3 Presentation - InterScholar.pdf](https://github.com/user-attachments/files/22996991/Group.3.Presentation.-.InterScholar.1.pdf)
+
 
 ### Fridgy (iOS fridge & grocery tracker) — Design & Implementation
 - **Figma:** https://www.figma.com/design/a4a7lv3nAmWz3nBzsNDJOn/Untitled?node-id=0-1&p=f&t=QwMLuBeQktSDpei7-0
