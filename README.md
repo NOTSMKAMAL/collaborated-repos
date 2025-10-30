@@ -27,17 +27,11 @@ Curated links to the student-organization websites and design work I was part of
 - **About:** Vietnamese Student Association site for culture, community, and events.
 - **Role:** Fullstack developer.  
 - **Notes:** Repo README covers Node.js, envs, commands, lint/format, dev, and build.
----
-## Designs
-
-### Lo-Fi/Hi-Fi App Wireframe Project
-- **Figma:** https://www.figma.com/design/GORI3lXkW2tMYubuweYKgM/Lo-Fi-Wireframe?node-id=2-4&p=f
-- **Project overview (Canva):[Group 3 Presentation - InterScholar.pdf](https://github.com/user-attachments/files/22996991/Group.3.Presentation.-.InterScholar.1.pdf)
 
 
-### Fridgy (iOS fridge & grocery tracker) — Design & Implementation
+### 4) Fridgy (iOS fridge & grocery tracker) — Design & Implementation
 - **Figma:** https://www.figma.com/design/a4a7lv3nAmWz3nBzsNDJOn/Untitled?node-id=0-1&p=f&t=QwMLuBeQktSDpei7-0
 - **GitHub repo:** https://github.com/NOTSMKAMAL/FRIDGY-APP
-
+---
 
 
